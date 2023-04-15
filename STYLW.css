@@ -1,0 +1,43 @@
+body{background-image: url(https://wallpapershome.com/images/wallpapers/dark-souls-remastered-1440x2560-screenshot-4k-18756.jpg);
+height: 100%;
+width: 100%;
+background-size: cover;}
+
+h1{ font-size: 38pt;
+    color: #FFA62B;
+    margin-top: 0;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-bottom: 15px;
+}
+h2{font-size: 30px;
+    color: #F9E19F;
+}
+
+article{color: #F5CB5C;
+font-size: 28pt;}
+
+p {color: #F5CB5C;}
+
+h1, h2, p {text-align: center;}
+
+.menu{
+    width: 80%;
+margin-left: auto;
+margin-right: auto;
+padding: 20px;
+max-width: 800px;
+background-color: #1F1F1E;
+box-shadow: 5px 5px 6px #F5CB5C;
+border-color: #F5CB5C;
+border-radius: 5px;
+border: 20px #F5CB5C;}
+hr{
+  background-color: #FFA62B;
+  border-color: #FFA62B;
+    height: 2px;
+}
+bonfire{
+    align-items: center;
+}
